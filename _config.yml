@@ -1,15 +1,17 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Music/Tech/Culture
+author: chrsam
+email: mananghayac@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The world around us is constantly changing. The gap between 
+  generations is evident in the things that matter to each group.
+  This blog is a collection of thoughts on talking points of
+  today's young adults - those may not know their future, but 
+  want to make the most of the present. 
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: [Check out my Twitter for more casual content!](https://twitter.com/chrs_man)
+github_username:  [Check out my GitHub for projects I've been working on!](https://github.com/chrsam)
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minima
