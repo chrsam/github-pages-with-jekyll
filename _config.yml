@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
   want to make the most of the present. 
 
 # social links
-twitter_username: [Check out my Twitter for more casual content!](https://twitter.com/chrs_man)
-github_username:  [Check out my GitHub for projects I've been working on!](https://github.com/chrsam)
+twitter_username: @chrs_man
+github_username:  @chrsam
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
