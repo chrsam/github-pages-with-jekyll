@@ -1,4 +1,7 @@
-# Brogramming 101
+---
+title: "The Current State of Brogramming"
+date: 2018-05-09
+---
 
 ## Introduction
 #### A female college undergrad just scored an internship at an up-an-coming startup in Silicon Valley. She's super excited to meet new people, explore the area, and escape the stereotypical college scene of frat bros and downing beers for a while. What surprises her is that a lot of her new coworkers still have remants of the "college mindset". They're cocky. They're pretentious. Other than code, all they're talking about is going to the bars and hitting on chicks. Why is this a thing? 
